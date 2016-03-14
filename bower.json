@@ -1,0 +1,24 @@
+{
+  "name": "sails+polymer",
+  "description": "Utilizar sails js y polymer components",
+  "main": "app.js",
+  "authors": [
+    "leovafme"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/Polymer#^1.0.0",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.1"
+  }
+}

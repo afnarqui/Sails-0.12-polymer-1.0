@@ -1,13 +1,3 @@
-# Sails-0.12-polymer-1.0
-Proyecto integracion sails 0.12 + Polymer 1
+# SailsPolymer
 
-
-cd /SailsPolymer
-
-```sh
-$ npm install
-```
-
-```sh
-$ bower install
-```
+a [Sails](http://sailsjs.org) application
